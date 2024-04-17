@@ -3,7 +3,7 @@ class Main{
                    System.out.print("Sparkle");
 
           }
-          public static void winter(int temp){
+          public static void winter(int temp){ //winter sucks
                    if(temp>40){
                           System.out.print("*");
                           temp-=1;
